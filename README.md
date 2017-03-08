@@ -186,3 +186,6 @@ $mailSender->sendMail();
 echo $mailSender->getresult();
 
 ```
+
+### Output
+![capture 2](https://github.com/anicetkeric/phpSendMail/blob/master/Capture.PNG)
