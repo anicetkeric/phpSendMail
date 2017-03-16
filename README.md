@@ -1,5 +1,5 @@
 # phpSendMail
-Send email through PHP Mailer and Gmail
+Send email through PHP Mailer and Gmail SMPT.
 
 # Overview
 
@@ -10,7 +10,7 @@ http://phpmailer.worxware.com/?pg=tutorial
 # PHP example.
 Download a recent version of PHPMailer [Here](https://github.com/PHPMailer/PHPMailer). Current version 5.2.
 
-### MailSender class
+### MailSender.php class
 You can use gmail smtp or your smtp server settings. change gmail variable value (True or False)
 ```php
 
